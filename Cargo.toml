@@ -1,6 +1,8 @@
 [package]
 name = "woodo"
-version = "0.1.0"
+description = "It's a weird tree."
+license = "MIT"
+version = "1.0.0"
 edition = "2021"
 
 [profile.release]
