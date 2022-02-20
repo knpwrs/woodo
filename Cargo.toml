@@ -1,8 +1,9 @@
 [package]
 name = "woodo"
 description = "It's a weird tree."
+repository = "https://github.com/knpwrs/woodo"
 license = "MIT"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 
 [profile.release]
